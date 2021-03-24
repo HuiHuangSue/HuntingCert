@@ -19,6 +19,7 @@ https://www.hunter-ed.com/course/
 - https://github.com/HuiHuangSue/HuntingCert/blob/main/gun%E6%9E%AA.png
 - **stock**,butt, safety, trigger, trigger guard, magazine(tubular), **action** bar, forestock, rib, **barrel**, sight, bead, muzzle枪口, cylinder(revolver),hammer, grip, slide(pistol)
 - Ammunition
-  - cartridge w/ 1 projectile/bullet
-  - shotshell with 1 slug / many small orojectiles
+  - primer, gunpowder,wad, case, projetile
+  - cartridge w/ 1 projectile/bullet.
+  - shotshell with 1 slug / many small orojectiles https://github.com/HuiHuangSue/HuntingCert/blob/main/bullet-shotgun.png
 
