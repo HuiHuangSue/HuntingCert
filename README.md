@@ -16,5 +16,9 @@ https://www.hunter-ed.com/course/
 - 车/船等交通工具内运枪可能颠簸走火，运输途中一定unload（一定检查枪膛); loaded shotgun/rifle违法，WA有cpl手枪可以loaded,不过小心走火打屁屁
 
 ## Know your firearm equipment
-- 
+- https://github.com/HuiHuangSue/HuntingCert/blob/main/gun%E6%9E%AA.png
+- **stock**,butt, safety, trigger, trigger guard, magazine(tubular), **action** bar, forestock, rib, **barrel**, sight, bead, muzzle枪口, cylinder(revolver),hammer, grip, slide(pistol)
+- Ammunition
+  - cartridge w/ 1 projectile/bullet
+  - shotshell with 1 slug / many small orojectiles
 
