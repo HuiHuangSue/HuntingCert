@@ -27,5 +27,13 @@ https://www.hunter-ed.com/course/
 - **Firing process**: 扳机-->fire pin stikes and explodes primer --> spark from primer ignites gunpowder --> gunpowder burns into gas --> gas expands and drives projectile(s) through the barrel
 
 ## Firearm Actions
-- 
+- bolt action. 打完弹壳还在枪膛里，重新上膛会把之前的空弹壳弹出去，并且上好下一颗
+- lever action 一定要不停地eject，到空。检查magazine和枪膛 （2层）
+- pump/slide/trombone action 
+- semi-automatic/auto-loading 
+- break/hinge action
+- revolving action
+
+## Safety
+
 
