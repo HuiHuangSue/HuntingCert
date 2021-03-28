@@ -50,6 +50,15 @@ https://www.hunter-ed.com/course/
 - handgun: stationary, 1 specific caliber of ammunition, groovey bore
 - Caliber foor rifle/hanndgun
 ### Range
+https://github.com/HuiHuangSue/HuntingCert/blob/main/range.pngv
+### Clean
+https://assets.kalkomey.com/concealedcarry/pdfs/cleaning_firearm_diagram.pdf
+https://www.hunter-ed.com/course/content/146235/
+### storage
+- locks, dry+cool
+
+## Shooting skills
+
 
 
 
