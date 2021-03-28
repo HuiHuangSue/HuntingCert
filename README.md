@@ -57,8 +57,20 @@ https://www.hunter-ed.com/course/content/146235/
 ### storage
 - locks, dry+cool
 
-## Shooting skills
+## Survival
+- shelter（dry防风，柴火多，附加有水，在shelter和fire之间）, fire, signal; then water and food. 防虫
+- compass/map，随手标记，extra layered clothing,天黑前回camp，一定带点火以及foil，口哨，雪/草大标记，旁边放上石头什么的
+- 可以考虑买PLB
 
+## First Aid
+- stop bleediing: 干净布/棉,压住伤口止血（感染之后考虑),不要拉起来反复看伤口，以免重新流血。一片湿了不要拿开，直接往上面覆盖新的布棉止血；四肢可以抬高到心脏以上高度。实在不行，结扎大出血的四肢等
+- 骨折骨裂: 不要乱动，不要拉直弯曲等，转移前固定伤口上下的关节。
+- 烧伤： 止痛，免感染。一二级水泡用凉水棉，不要用冰水或者油质；二三级带伤口的用松而干燥的包扎
+- 一氧化碳中毒：头疼晕眩虚弱呼吸困难，失去意识。呼吸新鲜空气
+- 胸腔伤口: 手掌遮住伤口，放bandage/gauze/干净的布/塑料foil等cover，不要进空气。transport时，keep伤口处downwards.
+- Drownings,心脏病.CPR; 树上掉下来: signal out, 急救等
+- Shock: 腿抬高8-10inch/20-25cm; 呼吸困难把头肩抬高10inch；保暖，去紧衣服，求救
+- 蛇咬：伤口保留在心脏以下水平
 
 
 
