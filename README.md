@@ -48,6 +48,8 @@ https://www.hunter-ed.com/course/
 - rifle: stationary targets, 1 specific caliber of ammunition, groovey bore
 - shotgun: moving object, 1 gauge type, smooth bore; 10/12/16/20/28数越小，bore越大；cylinder(improved, modified/full-->控制越远) choke不影响火力，只控制发散度。https://github.com/HuiHuangSue/HuntingCert/blob/main/chokes.png
 - handgun: stationary, 1 specific caliber of ammunition, groovey bore
-- Caliber foor rifle/hanndgun: 
+- Caliber foor rifle/hanndgun
+### Range
+
 
 
