@@ -35,5 +35,8 @@ https://www.hunter-ed.com/course/
 - break/hinge action
 - revolving action
 ### Safety
+- between hammer & trigger,  can wear out or damage, use only as safe backup.
+- 
+### Magazines & sights
 
 
