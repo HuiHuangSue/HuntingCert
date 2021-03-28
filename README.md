@@ -35,8 +35,19 @@ https://www.hunter-ed.com/course/
 - break/hinge action
 - revolving action
 ### Safety
-- between hammer & trigger,  can wear out or damage, use only as safe backup.
-- 
+- between hammer & trigger,  can wear out or damage, use only as safe backup. https://github.com/HuiHuangSue/HuntingCert/blob/main/safeties.png
+- cross-bolt safety push button (pump, semi-automatic); 
+- pivot-safety blocking trigger or firing pin (bolt-action rifles, semi-auto pistols); 
+- slides/Tang safety (rifles, vreak-action shotguns), sliding bar/button blocking diring action
+- Half-cock/Hammer safety (single-action revolvers, or firearms w/ exposed hammers)
 ### Magazines & sights
+- detachable or fixed, make sure feel the spring and follower. 
+- bead sight, open/iron sight, aperture/peep, telescopic sight(scope)放大，准, dot sight
+### Rifles, shotguns, handguns
+- barrel, target, ammunition
+- rifle: stationary targets, 1 specific caliber of ammunition, groovey bore
+- shotgun: moviing object, 1 gauge type, smooth bore
+- handgun: stationary, 1 specific caliber of ammunition, groovey bore
+- Caliber foor rifle/hanndgun: 
 
 
