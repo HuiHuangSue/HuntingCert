@@ -16,24 +16,24 @@ https://www.hunter-ed.com/course/
 - 车/船等交通工具内运枪可能颠簸走火，运输途中一定unload（一定检查枪膛); loaded shotgun/rifle违法，WA有cpl手枪可以loaded,不过小心走火打屁屁
 
 ## Know your firearm equipment
+### Firearm
 - https://github.com/HuiHuangSue/HuntingCert/blob/main/gun%E6%9E%AA.png
 - **stock**,butt, safety, trigger, trigger guard, magazine(tubular), **action** bar, forestock, rib, **barrel**, sight, bead, muzzle枪口, cylinder(revolver),hammer, grip, slide(pistol)
-- **Ammunition**
+### Ammunition**
   - primer, gunpowder,wad, case, projetile
   - cartridge w/ 1 projectile/bullet.
   - shotshell with 1 slug / many small orojectiles https://github.com/HuiHuangSue/HuntingCert/blob/main/bullet-shotgun.png
   - pellet小球直径越大,shot number越小；12 gauge. Magnum means more shots or more gunpowder than regular shots shells.钢的比铅更轻，硬，更稳定，tighter pattern，用更大的
   - waterfowl水鸟，non-toxic shotshell (steel, bismuth铋, tungsten alloy钨合金)
-- **Firing process**: 扳机-->fire pin stikes and explodes primer --> spark from primer ignites gunpowder --> gunpowder burns into gas --> gas expands and drives projectile(s) through the barrel
-
-## Firearm Actions
+### Firing process
+- 扳机-->fire pin stikes and explodes primer --> spark from primer ignites gunpowder --> gunpowder burns into gas --> gas expands and drives projectile(s) through the barrel
+### Firearm Actions
 - bolt action. 打完弹壳还在枪膛里，重新上膛会把之前的空弹壳弹出去，并且上好下一颗
 - lever action 一定要不停地eject，到空。检查magazine和枪膛 （2层）
 - pump/slide/trombone action 
 - semi-automatic/auto-loading 
 - break/hinge action
 - revolving action
-
-## Safety
+### Safety
 
 
